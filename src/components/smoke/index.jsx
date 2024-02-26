@@ -19,7 +19,7 @@ const JaiDeepSmoker = () => {
       PRESSURE_DISSIPATION: 0.8,
       PRESSURE_ITERATIONS: 25,
       CURL: 30,
-      SPLAT_RADIUS: 0.005
+      SPLAT_RADIUS: 0.002
     };
 
     var pointers = [];

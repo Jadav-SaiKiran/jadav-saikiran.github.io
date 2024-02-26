@@ -1,7 +1,7 @@
-import bg from './bg.jpg';
+import sai from './sai.jpg';
 import banner_lines from './banner_lines.png';
 
 export {
-  bg,
+  sai,
   banner_lines
 };

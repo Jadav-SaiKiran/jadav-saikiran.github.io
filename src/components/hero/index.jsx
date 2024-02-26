@@ -16,7 +16,7 @@ const Hero = () => {
             Embark on a design odyssey with Sai Kiran, a UI/UX virtuoso weaving visual allure and seamless functionality. Let&apos;s craft digital masterpieces, where innovation meets user satisfaction in every pixel
           </p>
         </div>
-        <div className="flex pointer-events-auto gap-4">
+        <div className="flex flex-col pointer-events-auto md:flex-row gap-4">
           <Button content="Resume"/>
           <Button content="Get in touch"/>
           <Button content="Projects"/>
